@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "name": "Yolanda Turcotte Jr.",
+      "id": 1
+    },
+    {
+      "name": "Salvatore Watsica",
+      "id": 2
+    },
+    {
+      "name": "Ollie Mitchell",
+      "id": 3
+    },
+    {
+      "name": "Marguerite Jerde",
+      "id": 4
+    },
+    {
+      "name": "Jacqueline Aufderhar",
+      "id": 5
+    }
+  ],
+  "albums": [
+    {
+      "userId": 2,
+      "title": "Intelligent Fresh Chair",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Unbranded Steel Car",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "Refined Rubber Fish",
+      "id": 3
+    },
+    {
+      "userId": 4,
+      "title": "Oriental Rubber Cheese",
+      "id": 4
+    },
+    {
+      "userId": 4,
+      "title": "Rustic Bronze Soap",
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "title": "Incredible Metal Chicken",
+      "id": 6
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=30580",
+      "id": 2
+    }
+  ]
+}
